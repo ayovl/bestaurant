@@ -33,13 +33,14 @@
     .container{
       width: 100vw;
       height: 100vh;
+      background-color: rgb(198, 85, 198);
+      display: flex;
+      justify-content: center;
+      align-items: center;
     }
 
     .loading-image{
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      overflow: hidden;
+      width: 8vw;
       
     }
   </style>
@@ -48,7 +49,7 @@
 <body style="overflow: hidden;">
 
   <div id="loading-screen" class="container">
-    <img class="loading-image" src="./assets/logo/loading-screen.png"/>
+    <img class="loading-image" src="./assets/logo/loading-screen-logo.png"/>
 
   </div>
   <!-- This script installs service_worker.js to provide PWA functionality to
@@ -58,7 +59,7 @@
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyChjYqg1Eo9SkcyysoqW_9ux5ZvHlHyYSs"></script>
 
   <script>
-    var serviceWorkerVersion = '2769534868';
+    var serviceWorkerVersion = '1235182063';
     var scriptLoaded = false;
     function loadMainDartJs() {
       if (scriptLoaded) {
