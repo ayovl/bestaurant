@@ -26223,8 +26223,8 @@ $0(){var s=0,r=A.a6(t.H)
 var $async$$0=A.a1(function(a,b){if(a===1)return A.a3(b,r)
 while(true)switch(s){case 0:A.a7f("container clicked")
 s=2
-return A.ai(A.HK("https://www.google.com/maps"),$async$$0)
-case 2:if(b)A.HP("https://www.google.com/maps")
+return A.ai(A.HK("https://goo.gl/maps/3thbBda9xy56aNgs7"),$async$$0)
+case 2:if(b)A.HP("https://goo.gl/maps/3thbBda9xy56aNgs7")
 return A.a4(null,r)}})
 return A.a5($async$$0,r)},
 $S:26}
@@ -26236,8 +26236,8 @@ $0(){var s=0,r=A.a6(t.H)
 var $async$$0=A.a1(function(a,b){if(a===1)return A.a3(b,r)
 while(true)switch(s){case 0:A.a7f("container clicked")
 s=2
-return A.ai(A.HK("https://www.google.com/maps"),$async$$0)
-case 2:if(b)A.HP("https://www.google.com/maps")
+return A.ai(A.HK("https://goo.gl/maps/3thbBda9xy56aNgs7"),$async$$0)
+case 2:if(b)A.HP("https://goo.gl/maps/3thbBda9xy56aNgs7")
 return A.a4(null,r)}})
 return A.a5($async$$0,r)},
 $S:26}
