@@ -1,6 +1,6 @@
 A local restaurant recommendation app made with flutter for web and android
 
-An app that let's you find the best restaurants around you. currently only available in Islamabad
+An app that lets you find the best restaurants around you (in Islamabad). It was a learning project I created while I was learning Flutter.
 
 Live Web App
 https://ayovl.github.io/bestaurant/
